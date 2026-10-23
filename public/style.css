@@ -1902,6 +1902,7 @@ main > section:first-child:not(.hero) {
   color: var(--color-ink);
   letter-spacing: 0.04em;
   font-weight: 400;
+  font-family: var(--font-body);
 }
 
 /* ---- 2 · 擅长方向 --------------------------------------------------------
