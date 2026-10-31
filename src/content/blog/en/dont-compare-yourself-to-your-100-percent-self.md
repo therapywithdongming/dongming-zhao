@@ -9,10 +9,10 @@ updatedDate: 2026-10-30
 draft: false
 featured: false
 translationKey: buyao-he-100-dianliang-de-ziji-bijiao
-seoTitle: Why You Feel Like You’re Never Doing Enough | Dongming Zhao, LCSW
-seoDescription: When you feel like you haven’t done enough, try measuring your
-  day against the energy and emotional resources you actually had—not your ideal
-  100% self.
+seoTitle: Why You Feel Like You’re Never Doing Enough | Self-Criticism
+seoDescription: High self-expectations can make you judge a low-energy day by
+  your 100% standard. Learn to account for your energy, health, and emotional
+  bandwidth before deciding you fell short.
 ---
 Do you ever have days when you get things done, yet still feel you haven’t done enough? You think you could have been a little more efficient, planned your time better, and checked off B, C, and D, too. Then you tell yourself you didn’t try hard enough. And if you compare yourself with other people, it’s easy to feel inadequate and as though you’ve wasted the day.
 
