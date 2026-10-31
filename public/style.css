@@ -2704,3 +2704,23 @@ main > section:first-child:not(.hero) {
   font-size: 1rem;
   line-height: 1.7;
 }
+/* Blog landing pages: cream intro, earlier article preview */
+.blog-hero {
+  background-color: var(--color-cream);
+}
+
+.blog-hero + .section--band {
+  padding-top: clamp(2rem, 4vw, 3rem);
+}
+
+.blog-list {
+  column-gap: clamp(2rem, 5vw, 4.5rem);
+  row-gap: clamp(3rem, 6vw, 4.5rem);
+}
+
+@media (min-width: 901px) {
+  .blog-hero .lede--wide {
+    max-width: none;
+    white-space: nowrap;
+  }
+}
